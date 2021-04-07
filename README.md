@@ -10,3 +10,5 @@
 Python Turtle script. Who doesn't love turtles? They're pretty rad.
 
 ![turtle](turtle.jpg 'Turtle')
+
+![turtle](turtle-initials.gif 'Initials')
